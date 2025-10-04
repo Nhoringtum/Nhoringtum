@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Oh! Hello there! I'm Erwan
+3rd-year programming student | Aspiring Gameplay Programmer | C# / C++ / SFML / Unity / Unreal / Blueprint
 
-<!--
-**Nhoringtum/Nhoringtum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 About Me
+I'm passionate about the **game industry** and love exploring all aspects: coding, QA, drawing, and more.  
+I enjoy **creating gameplay systems** and learning how to solve **specific technical challenges** in game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Technologies
+
+- **Languages:** C#, C++  
+- **Game Engines:** Unity, Unreal Engine  
+- **Libraries & Tools:** SFML, Blueprint, GitHub, GitLab, Fork, Visual Studio  
+- **Concepts & Systems:** Gameplay programming, ATB combat (WIP), procedural generation (WIP), state machines, object pooling, modular architecture
+
+---
+
+## 🎮 Featured Projects
+- **[PokeConsole](https://github.com/yourusername/PokeConsole)** – Console RPG with real-time ATB combat and modular architecture (project WIP)
+
+---
+
+## 📫 Contact
+- [LinkedIn](https://linkedin.com/in/erwanham)  
+- [Portfolio](https://nhoringtum.itch.io/)  
+
+---
+
+## 🎮 Demo
+Check out my DemoReel:  
+▶️[Watch the video](https://youtu.be/AbI0QRPCtnM)
