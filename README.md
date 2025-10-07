@@ -29,6 +29,6 @@ I enjoy **creating gameplay systems** and learning how to solve **specific techn
 
 ---
 
-## 🎮 Demo
+## 🎮 DemoReel
 Check out my DemoReel:  
 ▶️[Watch the video](https://youtu.be/AbI0QRPCtnM)
