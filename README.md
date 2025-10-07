@@ -19,7 +19,7 @@ I enjoy **creating gameplay systems** and learning how to solve **specific techn
 ---
 
 ## 🎮 Featured Projects
-- **[PokeConsole](https://github.com/yourusername/PokeConsole)** – Console RPG with real-time ATB combat and modular architecture (project WIP)
+- **[PokeConsole](https://github.com/Nhoringtum/PokeConsole)** – Console RPG with real-time ATB combat and modular architecture (project WIP)
 
 ---
 
